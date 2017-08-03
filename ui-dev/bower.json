@@ -1,0 +1,22 @@
+{
+  "name": "ui-dev",
+  "homepage": "https://github.com/td042/Innovation-project",
+  "authors": [
+    "Theresa Denhard <td042@hdm-stuttgart.de>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "1.2.16",
+    "angular-bootstrap": "^2.5.0"
+  }
+}
